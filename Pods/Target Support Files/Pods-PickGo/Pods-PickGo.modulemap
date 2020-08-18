@@ -1,0 +1,6 @@
+framework module Pods_PickGo {
+  umbrella header "Pods-PickGo-umbrella.h"
+
+  export *
+  module * { export * }
+}
